@@ -1,0 +1,2 @@
+<?php
+// New mission page

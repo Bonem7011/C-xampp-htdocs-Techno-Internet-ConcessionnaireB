@@ -1,0 +1,2 @@
+<?php
+// Demo AJAX page
